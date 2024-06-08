@@ -24,6 +24,7 @@ visual-aids = {path = "visual-aids"}
 login-attempt-simulator = {git = "https://github.com/stefmolin/login-attempt-simulator.git", rev = "2nd_edition"}
 ml-utils = {git = "https://github.com/stefmolin/ml-utils.git", rev = "2nd_edition"}
 stock-analysis = {git = "https://github.com/stefmolin/stock-analysis.git", rev = "2nd_edition"}
+xlrd = "^2.0.1"
 
 
 [tool.poetry.group.dev.dependencies]
