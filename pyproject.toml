@@ -1,0 +1,35 @@
+[tool.poetry]
+name = "hands-on-data-analysis-with-pandas-2nd-edition-pt-br"
+version = "0.1.0"
+description = ""
+authors = ["Gustavo Oliveira <gust4vo-mlo@hotmail.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.10"
+graphviz = "0.14.1"
+imbalanced-learn = "0.7.0"
+ipympl = "0.6.2"
+numpy = "1.26.4"
+pandas = "2.2.2"
+scikit-learn = "1.5.0"
+scipy = "1.13.1"
+seaborn = "0.13.2"
+sqlalchemy = "2.0.30"
+statsmodels = "0.14.2"
+wheel = "0.43.0"
+requests = "2.32.3"
+visual-aids = {path = "visual-aids"}
+login-attempt-simulator = {git = "https://github.com/stefmolin/login-attempt-simulator.git", rev = "2nd_edition"}
+ml-utils = {git = "https://github.com/stefmolin/ml-utils.git", rev = "2nd_edition"}
+stock-analysis = {git = "https://github.com/stefmolin/stock-analysis.git", rev = "2nd_edition"}
+
+
+[tool.poetry.group.dev.dependencies]
+ipywidgets = "^8.1.3"
+ipykernel = "^6.29.4"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
