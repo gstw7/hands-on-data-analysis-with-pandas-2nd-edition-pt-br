@@ -9,7 +9,6 @@ package-mode = false
 [tool.poetry.dependencies]
 python = "^3.10"
 graphviz = "0.14.1"
-imbalanced-learn = "0.7.0"
 ipympl = "0.6.2"
 numpy = "1.26.4"
 pandas = "2.2.2"
@@ -21,9 +20,6 @@ statsmodels = "0.14.2"
 wheel = "0.43.0"
 requests = "2.32.3"
 visual-aids = {path = "visual-aids"}
-login-attempt-simulator = {git = "https://github.com/stefmolin/login-attempt-simulator.git", rev = "2nd_edition"}
-ml-utils = {git = "https://github.com/stefmolin/ml-utils.git", rev = "2nd_edition"}
-stock-analysis = {git = "https://github.com/stefmolin/stock-analysis.git", rev = "2nd_edition"}
 xlrd = "^2.0.1"
 
 
