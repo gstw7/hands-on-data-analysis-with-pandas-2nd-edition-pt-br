@@ -1,5 +1,6 @@
 # Hands-On Data Analysis with Pandas – Segunda Edição
 [![Compre o livro na Amazon](https://img.shields.io/badge/Amazon-compra-orange?logo=amazon&logoColor=orange)](https://www.amazon.com.br/Hands-Data-Analysis-Pandas-visualization/dp/1800563450)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-conectar-blue?logo=linkedin)](https://www.linkedin.com/in/gustavo-de-melo-oliveira/)
 <a href="https://www.amazon.com.br/Hands-Data-Analysis-Pandas-visualization/dp/1800563450"><img src="_img/cover.PNG" alt="Hands-On Data Analysis with Pandas" height="256px" align="right"></a>
 
 Este é o repositório de código do meu livro [Hands-On Data Analysis with Pandas](https://www.amazon.com.br/Hands-Data-Analysis-Pandas-visualization/dp/1800563450), publicado pela Packt em 26 de julho de 2019 ([1ª edição](https://www.amazon.com.br/Hands-Data-Analysis-Pandas-visualization/dp/1789615321)) e 29 de abril de 2021 ([2ª edição](https://www.amazon.com.br/Hands-Data-Analysis-Pandas-visualization/dp/1800563450)).
